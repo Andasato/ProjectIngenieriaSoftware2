@@ -1,3 +1,3 @@
 # TacticasDeArquitectura
 
-Este es mi proyecto para la actividad puesta en clase sobre las Tacticas de Arquitectura
+Explicacion manejo GitHub, Ingenieria de Software 2 
